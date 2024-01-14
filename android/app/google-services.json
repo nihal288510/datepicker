@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973467168342",
+    "project_id": "project1-670ba",
+    "storage_bucket": "project1-670ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973467168342:android:79a8c933b84f56fa3855f7",
+        "android_client_info": {
+          "package_name": "com.example.datepicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQvFnPF3izcW7YJzQjvc8cSeZi6sAJh54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
